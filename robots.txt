@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bison-bonanza-ru-yohoslot.github.io/sitemap.xml
